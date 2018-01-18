@@ -1,0 +1,14 @@
+c:\users\win2\documents\visual studio 2012\Projects\WinFormEmpleados\WinFormEmpleados\bin\Debug\WinFormEmpleados.exe.config
+c:\users\win2\documents\visual studio 2012\Projects\WinFormEmpleados\WinFormEmpleados\bin\Debug\WinFormEmpleados.exe
+c:\users\win2\documents\visual studio 2012\Projects\WinFormEmpleados\WinFormEmpleados\bin\Debug\WinFormEmpleados.pdb
+c:\users\win2\documents\visual studio 2012\Projects\WinFormEmpleados\WinFormEmpleados\obj\Debug\WinFormEmpleados.csproj.GenerateResource.Cache
+c:\users\win2\documents\visual studio 2012\Projects\WinFormEmpleados\WinFormEmpleados\obj\Debug\WinFormEmpleados.exe
+c:\users\win2\documents\visual studio 2012\Projects\WinFormEmpleados\WinFormEmpleados\obj\Debug\WinFormEmpleados.pdb
+c:\users\win2\documents\visual studio 2012\Projects\WinFormEmpleados\WinFormEmpleados\obj\Debug\WinFormEmpleados.csprojResolveAssemblyReference.cache
+c:\users\win2\documents\visual studio 2012\Projects\WinFormEmpleados\WinFormEmpleados\obj\Debug\CapaDatos.Properties.Resources.resources
+c:\users\win2\documents\visual studio 2012\Projects\WinFormEmpleados\WinFormEmpleados\bin\Debug\CapaPresentacion.dll
+c:\users\win2\documents\visual studio 2012\Projects\WinFormEmpleados\WinFormEmpleados\bin\Debug\CapaPresentacion.pdb
+c:\users\win2\documents\visual studio 2012\Projects\WinFormEmpleados\WinFormEmpleados\bin\Debug\CapaNegocios.dll
+c:\users\win2\documents\visual studio 2012\Projects\WinFormEmpleados\WinFormEmpleados\bin\Debug\CapaDatos.dll
+c:\users\win2\documents\visual studio 2012\Projects\WinFormEmpleados\WinFormEmpleados\bin\Debug\CapaNegocios.pdb
+c:\users\win2\documents\visual studio 2012\Projects\WinFormEmpleados\WinFormEmpleados\bin\Debug\CapaDatos.pdb

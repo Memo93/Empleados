@@ -1,0 +1,7 @@
+c:\users\win2\documents\visual studio 2012\Projects\WinFormEmpleados\CapaNegocios\bin\Debug\CapaNegocios.dll
+c:\users\win2\documents\visual studio 2012\Projects\WinFormEmpleados\CapaNegocios\bin\Debug\CapaNegocios.pdb
+c:\users\win2\documents\visual studio 2012\Projects\WinFormEmpleados\CapaNegocios\bin\Debug\CapaDatos.dll
+c:\users\win2\documents\visual studio 2012\Projects\WinFormEmpleados\CapaNegocios\bin\Debug\CapaDatos.pdb
+c:\users\win2\documents\visual studio 2012\Projects\WinFormEmpleados\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+c:\users\win2\documents\visual studio 2012\Projects\WinFormEmpleados\CapaNegocios\obj\Debug\CapaNegocios.dll
+c:\users\win2\documents\visual studio 2012\Projects\WinFormEmpleados\CapaNegocios\obj\Debug\CapaNegocios.pdb
