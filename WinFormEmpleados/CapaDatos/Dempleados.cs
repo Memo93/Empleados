@@ -102,6 +102,8 @@ namespace CapaDatos
                 ParCedEmpleado.Value = Empleados.Cedula_empleado;
                 SqlCmd.Parameters.Add(ParCedEmpleado);
 
+
+                rpta=SqlCmd.ExecuteNonQuery()==1 ? "OK" : "No se inserto correctamente el empleado";
             }
             catch (Exception ex)
             {
@@ -157,6 +159,8 @@ namespace CapaDatos
                 ParCedEmpleado.Value = Empleados.Cedula_empleado;
                 SqlCmd.Parameters.Add(ParCedEmpleado);
 
+                rpta = SqlCmd.ExecuteNonQuery() == 1 ? "OK" : "No se edito correctamente el empleado";
+
             }
             catch (Exception ex)
             {
@@ -191,6 +195,8 @@ namespace CapaDatos
                 ParCodEmpleado.SqlDbType = SqlDbType.Int;
                 ParCodEmpleado.Value = Empleados.Cod_empleado;
                 SqlCmd.Parameters.Add(ParCodEmpleado);
+
+                rpta = SqlCmd.ExecuteNonQuery() == 1 ? "OK" : "No se elimini correctamente el empleado";
 
             }
             catch (Exception ex)
